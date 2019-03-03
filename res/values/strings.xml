@@ -960,4 +960,7 @@
 
     <!-- Shown to the user while an image/video is being saved to disk. -->
     <string name="session_saving_image">Saving\u2026</string>
+	
+    <!-- More Settings screen, max brightness title -->
+    <string name="pref_camera_max_brightness_title">Bright screen</string>
  </resources>
